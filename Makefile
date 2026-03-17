@@ -12,3 +12,11 @@ install:
 clean:
 	rm -rf .venv
 	rm -rf uv.lock
+
+# pre-commit checks on changed files only
+pre-commit:
+	uv run pre-commit run
+
+# pre-commit checks (linting, formatting, type checking)
+pre-commit-all:
+	uv run pre-commit run --all-files
