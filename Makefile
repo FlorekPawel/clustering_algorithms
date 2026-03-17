@@ -3,6 +3,8 @@ help:
 	@echo "  install - Install dependencies and pre-commit hooks"
 	@echo "  clean   - Clean up virtual environment and lockfile"
 
+UV := uv run
+
 # install dependencies and pre-commit hooks
 install:
 	uv sync --all-groups
@@ -20,3 +22,6 @@ pre-commit:
 # pre-commit checks (linting, formatting, type checking)
 pre-commit-all:
 	uv run pre-commit run --all-files
+
+run-experiments:
+	PYTHONPATH=src $(UV) python scripts/run_all_experiments.py
