@@ -182,6 +182,7 @@ def run_experiments_for_datasets(
         results[dataset_name] = {
             "k": inferred_k,
             "labels": labels,
+            "true_labels": np.asarray(y_true, dtype=int),
         }
 
     return results

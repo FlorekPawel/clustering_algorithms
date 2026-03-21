@@ -1,0 +1,379 @@
+dataset,metric,spearman_with_ari,n_algorithms
+fcps/atom,CH Index,-0.8900124949047554,19
+fcps/atom,Dunnowa Index,0.36842105263157904,5
+fcps/atom,Generalised Dunn Index,0.9824561403508768,19
+fcps/atom,Negated Ball Hall Index,-0.9824561403508768,19
+fcps/atom,Negated DB Index,-0.9912280701754383,19
+fcps/atom,Negated WCSS Index,-0.9473684210526313,19
+fcps/atom,Silhouette,-0.9444444444444442,19
+fcps/atom,Silhouette W,-0.9912280701754383,19
+fcps/atom,WCNN Index,0.9678362573099414,19
+fcps/chainlink,CH Index,-0.9942238267148014,26
+fcps/chainlink,Dunnowa Index,0.0,5
+fcps/chainlink,Generalised Dunn Index,0.9855595667870035,26
+fcps/chainlink,Negated Ball Hall Index,-0.9956678700361011,26
+fcps/chainlink,Negated DB Index,-0.991335740072202,26
+fcps/chainlink,Negated WCSS Index,-0.9942238267148014,26
+fcps/chainlink,Silhouette,-0.9942238267148014,26
+fcps/chainlink,Silhouette W,-0.991335740072202,26
+fcps/chainlink,WCNN Index,0.9870036101083031,26
+fcps/engytime,CH Index,0.921985815602837,12
+fcps/engytime,Dunnowa Index,-0.4629629629629629,11
+fcps/engytime,Generalised Dunn Index,-0.5390070921985816,12
+fcps/engytime,Negated Ball Hall Index,-0.5673758865248227,12
+fcps/engytime,Negated DB Index,-0.7021276595744682,12
+fcps/engytime,Negated WCSS Index,0.921985815602837,12
+fcps/engytime,Silhouette,0.8652482269503547,12
+fcps/engytime,Silhouette W,-0.7446808510638298,12
+fcps/engytime,WCNN Index,-0.6574074074074073,11
+fcps/hepta,CH Index,0.5,20
+fcps/hepta,Generalised Dunn Index,1.0,20
+fcps/hepta,Negated Ball Hall Index,1.0,20
+fcps/hepta,Negated DB Index,0.4714045207910317,20
+fcps/hepta,Negated WCSS Index,1.0,20
+fcps/hepta,Silhouette,1.0,20
+fcps/hepta,Silhouette W,1.0,20
+fcps/hepta,WCNN Index,,19
+fcps/lsun,CH Index,-0.39830508474576276,15
+fcps/lsun,Dunnowa Index,0.39830508474576276,15
+fcps/lsun,Generalised Dunn Index,0.9576271186440679,15
+fcps/lsun,Negated Ball Hall Index,-0.41525423728813565,15
+fcps/lsun,Negated DB Index,0.8220338983050848,15
+fcps/lsun,Negated WCSS Index,-0.39830508474576276,15
+fcps/lsun,Silhouette,-0.04237288135593221,15
+fcps/lsun,Silhouette W,-0.42372881355932207,15
+fcps/lsun,WCNN Index,0.41525423728813565,15
+fcps/target,CH Index,-0.5714467029606936,18
+fcps/target,Dunnowa Index,0.942857142857143,6
+fcps/target,Generalised Dunn Index,0.5032119914346896,18
+fcps/target,Negated Ball Hall Index,-0.3533190578158458,18
+fcps/target,Negated DB Index,-0.8286937901498931,18
+fcps/target,Negated WCSS Index,-0.37044967880085655,18
+fcps/target,Silhouette,-0.29978586723768735,18
+fcps/target,Silhouette W,0.09207708779443255,18
+fcps/target,WCNN Index,0.8857142857142858,6
+fcps/tetra,CH Index,0.9534625892455921,12
+fcps/tetra,Dunnowa Index,0.5058823529411764,9
+fcps/tetra,Generalised Dunn Index,0.9999999999999999,12
+fcps/tetra,Negated Ball Hall Index,0.976,12
+fcps/tetra,Negated DB Index,1.0,9
+fcps/tetra,Negated WCSS Index,0.9999999999999999,12
+fcps/tetra,Silhouette,0.9999999999999999,12
+fcps/tetra,Silhouette W,0.9999999999999999,12
+fcps/tetra,WCNN Index,1.0,9
+fcps/twodiamonds,CH Index,0.9999999999999999,12
+fcps/twodiamonds,Dunnowa Index,0.7241379310344828,10
+fcps/twodiamonds,Generalised Dunn Index,0.05660377358490566,12
+fcps/twodiamonds,Negated Ball Hall Index,0.9999999999999999,12
+fcps/twodiamonds,Negated DB Index,1.0,10
+fcps/twodiamonds,Negated WCSS Index,0.9999999999999999,12
+fcps/twodiamonds,Silhouette,0.9999999999999999,12
+fcps/twodiamonds,Silhouette W,0.9999999999999999,12
+fcps/twodiamonds,WCNN Index,1.0,10
+fcps/wingnut,CH Index,-0.1641263053247171,12
+fcps/wingnut,Dunnowa Index,0.9638554216867469,12
+fcps/wingnut,Generalised Dunn Index,0.9999999999999999,12
+fcps/wingnut,Negated Ball Hall Index,-0.19277108433734935,12
+fcps/wingnut,Negated DB Index,-0.20481927710843367,12
+fcps/wingnut,Negated WCSS Index,-0.19277108433734935,12
+fcps/wingnut,Silhouette,-0.20481927710843367,12
+fcps/wingnut,Silhouette W,-0.20481927710843367,12
+fcps/wingnut,WCNN Index,0.9999999999999999,12
+graves/dense,CH Index,0.25000000000000006,12
+graves/dense,Dunnowa Index,0.5972222222222221,10
+graves/dense,Generalised Dunn Index,-0.12878787878787878,12
+graves/dense,Negated Ball Hall Index,0.4621212121212122,12
+graves/dense,Negated DB Index,0.3030303030303031,12
+graves/dense,Negated WCSS Index,0.25000000000000006,12
+graves/dense,Silhouette,0.25000000000000006,12
+graves/dense,Silhouette W,-0.38636363636363646,12
+graves/dense,WCNN Index,0.611111111111111,10
+graves/fuzzyx,CH Index,0.6853146853146854,12
+graves/fuzzyx,Dunnowa Index,-0.4666666666666666,9
+graves/fuzzyx,Generalised Dunn Index,-0.34965034965034975,12
+graves/fuzzyx,Negated Ball Hall Index,0.3916083916083916,12
+graves/fuzzyx,Negated DB Index,0.5454545454545455,11
+graves/fuzzyx,Negated WCSS Index,0.6853146853146854,12
+graves/fuzzyx,Silhouette,0.6573426573426573,12
+graves/fuzzyx,Silhouette W,0.0979020979020979,12
+graves/fuzzyx,WCNN Index,-0.3,9
+graves/line,CH Index,-0.9200099973720336,24
+graves/line,Dunnowa Index,0.08571428571428573,6
+graves/line,Generalised Dunn Index,0.972952667167543,24
+graves/line,Negated Ball Hall Index,-0.9894815927873779,24
+graves/line,Negated DB Index,-0.9984973703981969,24
+graves/line,Negated WCSS Index,-0.9534184823441021,24
+graves/line,Silhouette,-0.9714500375657401,24
+graves/line,Silhouette W,-0.9849737039819684,24
+graves/line,WCNN Index,0.972952667167543,24
+graves/parabolic,CH Index,0.2313167259786477,12
+graves/parabolic,Dunnowa Index,-0.004651162790697675,11
+graves/parabolic,Generalised Dunn Index,0.05338078291814947,12
+graves/parabolic,Negated Ball Hall Index,0.20996441281138792,12
+graves/parabolic,Negated DB Index,0.06976744186046512,11
+graves/parabolic,Negated WCSS Index,0.2313167259786477,12
+graves/parabolic,Silhouette,0.20996441281138792,12
+graves/parabolic,Silhouette W,0.2313167259786477,12
+graves/parabolic,WCNN Index,-0.17209302325581396,11
+graves/ring,CH Index,-0.9638874137015401,28
+graves/ring,Dunnowa Index,0.3,5
+graves/ring,Generalised Dunn Index,0.9904407859798195,28
+graves/ring,Negated Ball Hall Index,-0.9893786510886884,28
+graves/ring,Negated DB Index,-0.9840679766330324,28
+graves/ring,Negated WCSS Index,-0.9638874137015401,28
+graves/ring,Silhouette,-0.9638874137015401,28
+graves/ring,Silhouette W,-0.9893786510886884,28
+graves/ring,WCNN Index,0.9960132890365452,27
+graves/ring_noisy,CH Index,-0.548095276523674,12
+graves/ring_noisy,Dunnowa Index,0.8,9
+graves/ring_noisy,Generalised Dunn Index,-0.22141597263539145,12
+graves/ring_noisy,Negated Ball Hall Index,-0.9255913610168004,12
+graves/ring_noisy,Negated DB Index,-0.8709677419354839,10
+graves/ring_noisy,Negated WCSS Index,-0.548095276523674,12
+graves/ring_noisy,Silhouette,-0.8892936605847689,12
+graves/ring_noisy,Silhouette W,-0.9038127407575816,12
+graves/ring_noisy,WCNN Index,0.8,9
+graves/ring_outliers,CH Index,-0.7628436545404053,29
+graves/ring_outliers,Dunnowa Index,0.5714285714285715,8
+graves/ring_outliers,Generalised Dunn Index,0.7407304612460036,29
+graves/ring_outliers,Negated Ball Hall Index,-0.17689530685920576,29
+graves/ring_outliers,Negated DB Index,-0.9711191335740071,29
+graves/ring_outliers,Negated WCSS Index,-0.7617328519855594,29
+graves/ring_outliers,Silhouette,-0.9422382671480143,29
+graves/ring_outliers,Silhouette W,0.9277978339350179,29
+graves/ring_outliers,WCNN Index,0.7619047619047621,8
+graves/zigzag,CH Index,-0.9885714285714287,20
+graves/zigzag,Generalised Dunn Index,0.9291428571428574,20
+graves/zigzag,Negated Ball Hall Index,-1.0,20
+graves/zigzag,Negated DB Index,-1.0,20
+graves/zigzag,Negated WCSS Index,-0.9885714285714287,20
+graves/zigzag,Silhouette,-0.9954285714285716,20
+graves/zigzag,Silhouette W,-0.18400000000000002,20
+graves/zigzag,WCNN Index,0.9883268482490274,18
+graves/zigzag_noisy,CH Index,-0.08896797153024912,12
+graves/zigzag_noisy,Dunnowa Index,0.7267080745341615,10
+graves/zigzag_noisy,Generalised Dunn Index,0.03914590747330961,12
+graves/zigzag_noisy,Negated Ball Hall Index,-0.5658362989323843,12
+graves/zigzag_noisy,Negated DB Index,-0.8790035587188614,12
+graves/zigzag_noisy,Negated WCSS Index,-0.08896797153024912,12
+graves/zigzag_noisy,Silhouette,-0.10320284697508897,12
+graves/zigzag_noisy,Silhouette W,-0.5231316725978647,12
+graves/zigzag_noisy,WCNN Index,0.9503105590062113,10
+graves/zigzag_outliers,CH Index,-0.7004175365344468,23
+graves/zigzag_outliers,Generalised Dunn Index,0.18019777701120918,23
+graves/zigzag_outliers,Negated Ball Hall Index,-0.7296450939457202,23
+graves/zigzag_outliers,Negated DB Index,-0.6649269311064717,23
+graves/zigzag_outliers,Negated WCSS Index,-0.17849686847599164,23
+graves/zigzag_outliers,Silhouette,-0.7004175365344468,23
+graves/zigzag_outliers,Silhouette W,0.13883089770354906,23
+graves/zigzag_outliers,WCNN Index,1.0,6
+sipu/a1,CH Index,0.9929824561403509,12
+sipu/a1,Dunnowa Index,0.4285714285714286,8
+sipu/a1,Generalised Dunn Index,-0.031578947368421054,12
+sipu/a1,Negated Ball Hall Index,0.9929824561403509,12
+sipu/a1,Negated DB Index,0.9515151515151514,10
+sipu/a1,Negated WCSS Index,0.9929824561403509,12
+sipu/a1,Silhouette,0.9929824561403509,12
+sipu/a1,Silhouette W,0.9789473684210527,12
+sipu/a1,WCNN Index,0.7142857142857144,8
+sipu/a2,CH Index,0.9352028352316922,12
+sipu/a2,Dunnowa Index,0.261904761904762,8
+sipu/a2,Generalised Dunn Index,-0.01754385964912281,12
+sipu/a2,Negated Ball Hall Index,0.9789473684210527,12
+sipu/a2,Negated DB Index,0.7818181818181817,10
+sipu/a2,Negated WCSS Index,0.9368421052631579,12
+sipu/a2,Silhouette,0.9578947368421055,12
+sipu/a2,Silhouette W,0.9508771929824562,12
+sipu/a2,WCNN Index,0.8333333333333335,8
+sipu/a3,CH Index,0.99124495269876,12
+sipu/a3,Dunnowa Index,0.6666666666666669,8
+sipu/a3,Generalised Dunn Index,0.21403508771929827,12
+sipu/a3,Negated Ball Hall Index,0.9649122807017544,12
+sipu/a3,Negated DB Index,0.9878787878787878,10
+sipu/a3,Negated WCSS Index,0.9929824561403509,12
+sipu/a3,Silhouette,0.9929824561403509,12
+sipu/a3,Silhouette W,0.9859649122807018,12
+sipu/a3,WCNN Index,0.6428571428571429,8
+sipu/aggregation,CH Index,0.19494143129549468,17
+sipu/aggregation,Dunnowa Index,-0.05333333333333332,14
+sipu/aggregation,Generalised Dunn Index,-0.01728395061728395,17
+sipu/aggregation,Negated Ball Hall Index,0.8469135802469134,17
+sipu/aggregation,Negated DB Index,0.7549549549549549,15
+sipu/aggregation,Negated WCSS Index,0.2839506172839506,17
+sipu/aggregation,Silhouette,0.4296296296296296,17
+sipu/aggregation,Silhouette W,0.7530864197530864,17
+sipu/aggregation,WCNN Index,0.2888888888888888,14
+sipu/compound,CH Index,-0.6948148148148148,16
+sipu/compound,Dunnowa Index,-0.5750000000000001,8
+sipu/compound,Generalised Dunn Index,-0.057777777777777775,16
+sipu/compound,Negated Ball Hall Index,-0.22370370370370368,16
+sipu/compound,Negated DB Index,-0.20177383592017742,14
+sipu/compound,Negated WCSS Index,0.1911111111111111,16
+sipu/compound,Silhouette,-0.35703703703703704,16
+sipu/compound,Silhouette W,-0.2711111111111111,16
+sipu/compound,WCNN Index,-0.725,8
+sipu/d31,CH Index,0.935251798561151,15
+sipu/d31,Dunnowa Index,0.5428571428571429,6
+sipu/d31,Generalised Dunn Index,-0.14028776978417265,15
+sipu/d31,Negated Ball Hall Index,0.9388489208633095,15
+sipu/d31,Negated DB Index,0.7555555555555554,13
+sipu/d31,Negated WCSS Index,0.9892086330935252,15
+sipu/d31,Silhouette,0.8920863309352517,15
+sipu/d31,Silhouette W,0.2805755395683453,15
+sipu/d31,WCNN Index,-0.41379310344827586,9
+sipu/flame,CH Index,0.2727272727272727,12
+sipu/flame,Dunnowa Index,0.767741935483871,10
+sipu/flame,Generalised Dunn Index,0.2218181818181818,12
+sipu/flame,Negated Ball Hall Index,-0.22909090909090907,12
+sipu/flame,Negated DB Index,-0.650909090909091,12
+sipu/flame,Negated WCSS Index,0.2727272727272727,12
+sipu/flame,Silhouette,0.31636363636363635,12
+sipu/flame,Silhouette W,-0.6218181818181819,12
+sipu/flame,WCNN Index,0.6387096774193549,10
+sipu/jain,CH Index,-0.09025270758122744,12
+sipu/jain,Dunnowa Index,0.21299638989169675,12
+sipu/jain,Generalised Dunn Index,0.631768953068592,12
+sipu/jain,Negated Ball Hall Index,-0.8483754512635379,12
+sipu/jain,Negated DB Index,-0.8339350180505416,12
+sipu/jain,Negated WCSS Index,-0.09025270758122744,12
+sipu/jain,Silhouette,-0.09025270758122744,12
+sipu/jain,Silhouette W,-0.8916967509025271,12
+sipu/jain,WCNN Index,0.4368231046931408,12
+sipu/pathbased,CH Index,0.007246376811594203,12
+sipu/pathbased,Dunnowa Index,0.8727272727272727,9
+sipu/pathbased,Generalised Dunn Index,0.028985507246376812,12
+sipu/pathbased,Negated Ball Hall Index,-0.8188405797101449,12
+sipu/pathbased,Negated DB Index,-0.9612903225806451,10
+sipu/pathbased,Negated WCSS Index,0.007246376811594203,12
+sipu/pathbased,Silhouette,0.007246376811594203,12
+sipu/pathbased,Silhouette W,-0.10144927536231885,12
+sipu/pathbased,WCNN Index,-0.8,9
+sipu/r15,CH Index,0.7036727370500194,27
+sipu/r15,Dunnowa Index,0.0,7
+sipu/r15,Generalised Dunn Index,-0.6382408061332789,27
+sipu/r15,Negated Ball Hall Index,0.7040268456375838,27
+sipu/r15,Negated DB Index,0.7908366533864541,24
+sipu/r15,Negated WCSS Index,0.9194630872483219,27
+sipu/r15,Silhouette,0.657718120805369,27
+sipu/r15,Silhouette W,-0.2885906040268456,27
+sipu/r15,WCNN Index,-0.8233606010107327,22
+sipu/s1,CH Index,0.9200724993189003,12
+sipu/s1,Dunnowa Index,0.5862068965517242,9
+sipu/s1,Generalised Dunn Index,0.46619217081850534,12
+sipu/s1,Negated Ball Hall Index,0.8576512455516014,12
+sipu/s1,Negated DB Index,0.6770186335403726,10
+sipu/s1,Negated WCSS Index,0.9217081850533808,12
+sipu/s1,Silhouette,0.9288256227758007,12
+sipu/s1,Silhouette W,0.9217081850533808,12
+sipu/s1,WCNN Index,0.9827586206896554,9
+sipu/s2,CH Index,0.9929824561403509,12
+sipu/s2,Dunnowa Index,0.19327731092436976,9
+sipu/s2,Generalised Dunn Index,0.3473684210526316,12
+sipu/s2,Negated Ball Hall Index,0.9649122807017544,12
+sipu/s2,Negated DB Index,0.8904109589041096,11
+sipu/s2,Negated WCSS Index,0.9929824561403509,12
+sipu/s2,Silhouette,0.9929824561403509,12
+sipu/s2,Silhouette W,0.48070175438596496,12
+sipu/s2,WCNN Index,0.5126050420168068,9
+sipu/s3,CH Index,0.9720279720279721,12
+sipu/s3,Dunnowa Index,-0.8214285714285715,7
+sipu/s3,Generalised Dunn Index,-0.3706293706293707,12
+sipu/s3,Negated Ball Hall Index,0.9160839160839163,12
+sipu/s3,Negated DB Index,0.9454545454545454,11
+sipu/s3,Negated WCSS Index,0.9720279720279721,12
+sipu/s3,Silhouette,0.9720279720279721,12
+sipu/s3,Silhouette W,0.30069930069930073,12
+sipu/s3,WCNN Index,-0.25,7
+sipu/s4,CH Index,0.9300699300699302,12
+sipu/s4,Dunnowa Index,-0.6666666666666667,9
+sipu/s4,Generalised Dunn Index,-0.39860139860139865,12
+sipu/s4,Negated Ball Hall Index,0.6993006993006995,12
+sipu/s4,Negated DB Index,0.8303030303030302,10
+sipu/s4,Negated WCSS Index,0.9300699300699302,12
+sipu/s4,Silhouette,0.9160839160839163,12
+sipu/s4,Silhouette W,0.18181818181818185,12
+sipu/s4,WCNN Index,0.03333333333333333,9
+sipu/spiral,CH Index,-0.9899328859060404,17
+sipu/spiral,Dunnowa Index,0.9899328859060404,17
+sipu/spiral,Generalised Dunn Index,0.9899328859060404,17
+sipu/spiral,Negated Ball Hall Index,-1.0,17
+sipu/spiral,Negated DB Index,-0.9798657718120807,17
+sipu/spiral,Negated WCSS Index,-0.9899328859060404,17
+sipu/spiral,Silhouette,-0.9865771812080538,17
+sipu/spiral,Silhouette W,-0.9697986577181209,17
+sipu/spiral,WCNN Index,-0.946308724832215,17
+sipu/unbalance,CH Index,0.2738611131741627,30
+sipu/unbalance,Dunnowa Index,0.460431654676259,12
+sipu/unbalance,Generalised Dunn Index,-0.7455635437123265,30
+sipu/unbalance,Negated Ball Hall Index,0.9312277126846664,30
+sipu/unbalance,Negated DB Index,-0.7676450242728492,29
+sipu/unbalance,Negated WCSS Index,0.9281711665817627,30
+sipu/unbalance,Silhouette,-0.7315333672949567,30
+sipu/unbalance,Silhouette W,-0.7417218543046358,30
+sipu/unbalance,WCNN Index,-0.783676077597258,29
+uci/ecoli,CH Index,0.3216783216783217,12
+uci/ecoli,Generalised Dunn Index,-0.16083916083916086,12
+uci/ecoli,Negated Ball Hall Index,-0.34965034965034975,12
+uci/ecoli,Negated DB Index,-0.016666666666666666,9
+uci/ecoli,Negated WCSS Index,0.3216783216783217,12
+uci/ecoli,Silhouette,0.6153846153846154,12
+uci/ecoli,Silhouette W,-0.2377622377622378,12
+uci/glass,CH Index,0.9230769230769231,12
+uci/glass,Generalised Dunn Index,-0.6153846153846154,12
+uci/glass,Negated Ball Hall Index,-0.9230769230769231,12
+uci/glass,Negated DB Index,0.6333333333333333,9
+uci/glass,Negated WCSS Index,0.9230769230769231,12
+uci/glass,Silhouette,0.23076923076923078,12
+uci/glass,Silhouette W,-0.43356643356643365,12
+uci/ionosphere,CH Index,0.594306049822064,12
+uci/ionosphere,Dunnowa Index,-0.06024096385542168,8
+uci/ionosphere,Generalised Dunn Index,-0.5871886120996441,12
+uci/ionosphere,Negated Ball Hall Index,-0.7224199288256229,12
+uci/ionosphere,Negated DB Index,-0.596638655462185,9
+uci/ionosphere,Negated WCSS Index,0.594306049822064,12
+uci/ionosphere,Silhouette,-0.4448398576512455,12
+uci/ionosphere,Silhouette W,-0.7224199288256229,12
+uci/ionosphere,WCNN Index,-0.542168674698795,8
+uci/sonar,CH Index,-0.3498233215547703,12
+uci/sonar,Dunnowa Index,-0.7698003589195012,7
+uci/sonar,Generalised Dunn Index,0.2508833922261484,12
+uci/sonar,Negated Ball Hall Index,-0.10247349823321554,12
+uci/sonar,Negated DB Index,-0.06912442396313363,11
+uci/sonar,Negated WCSS Index,-0.3498233215547703,12
+uci/sonar,Silhouette,-0.10954063604240284,12
+uci/sonar,Silhouette W,-0.16607773851590105,12
+uci/sonar,WCNN Index,-0.11111111111111113,7
+uci/statlog,CH Index,0.44055944055944063,12
+uci/statlog,Dunnowa Index,-0.39999999999999997,5
+uci/statlog,Generalised Dunn Index,-0.4055944055944056,12
+uci/statlog,Negated Ball Hall Index,0.09090909090909093,12
+uci/statlog,Negated DB Index,-0.5,9
+uci/statlog,Negated WCSS Index,0.44055944055944063,12
+uci/statlog,Silhouette,-0.49650349650349657,12
+uci/statlog,Silhouette W,-0.7972027972027973,12
+uci/statlog,WCNN Index,-0.19999999999999998,5
+uci/wdbc,CH Index,0.7366548042704627,12
+uci/wdbc,Dunnowa Index,-0.39655172413793105,9
+uci/wdbc,Generalised Dunn Index,-0.7793594306049823,12
+uci/wdbc,Negated Ball Hall Index,0.10320284697508897,12
+uci/wdbc,Negated DB Index,-0.4883720930232559,11
+uci/wdbc,Negated WCSS Index,0.7366548042704627,12
+uci/wdbc,Silhouette,-0.34519572953736655,12
+uci/wdbc,Silhouette W,-0.608540925266904,12
+uci/wdbc,WCNN Index,0.017241379310344827,9
+uci/wine,CH Index,0.6465455911329282,12
+uci/wine,Dunnowa Index,0.03225806451612903,6
+uci/wine,Generalised Dunn Index,-0.7642857142857142,12
+uci/wine,Negated Ball Hall Index,0.007142857142857143,12
+uci/wine,Negated DB Index,-0.8374999999999999,10
+uci/wine,Negated WCSS Index,0.65,12
+uci/wine,Silhouette,-0.19999999999999998,12
+uci/wine,Silhouette W,-0.8571428571428572,12
+uci/wine,WCNN Index,0.3548387096774194,6
+uci/yeast,CH Index,0.8461538461538463,12
+uci/yeast,Generalised Dunn Index,-0.6083916083916086,12
+uci/yeast,Negated Ball Hall Index,-0.4125874125874127,12
+uci/yeast,Negated DB Index,-0.48181818181818187,11
+uci/yeast,Negated WCSS Index,0.8461538461538463,12
+uci/yeast,Silhouette,-0.027972027972027972,12
+uci/yeast,Silhouette W,-0.5524475524475525,12

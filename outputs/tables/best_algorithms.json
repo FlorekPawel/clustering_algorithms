@@ -1,0 +1,515 @@
+{"dataset":"fcps\/atom","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/atom","metric":"CH Index","best_algorithm":"kmeans","best_value":272.6820161811}
+{"dataset":"fcps\/atom","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":null}
+{"dataset":"fcps\/atom","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":1.1525629484}
+{"dataset":"fcps\/atom","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/atom","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/atom","metric":"Negated Ball Hall Index","best_algorithm":"gaussian_mixture","best_value":-4.3942952004}
+{"dataset":"fcps\/atom","metric":"Negated DB Index","best_algorithm":"gaussian_mixture","best_value":-1.1198320347}
+{"dataset":"fcps\/atom","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-1785.5708632358}
+{"dataset":"fcps\/atom","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4174271732}
+{"dataset":"fcps\/atom","metric":"Silhouette W","best_algorithm":"gaussian_mixture","best_value":0.3913482729}
+{"dataset":"fcps\/atom","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/chainlink","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/chainlink","metric":"CH Index","best_algorithm":"kmeans","best_value":730.2772241656}
+{"dataset":"fcps\/chainlink","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":null}
+{"dataset":"fcps\/chainlink","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":1.2727326854}
+{"dataset":"fcps\/chainlink","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/chainlink","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/chainlink","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-3.1389714458}
+{"dataset":"fcps\/chainlink","metric":"Negated DB Index","best_algorithm":"agglomerative_complete","best_value":-1.0718925841}
+{"dataset":"fcps\/chainlink","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-1570.7107478603}
+{"dataset":"fcps\/chainlink","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.3578208163}
+{"dataset":"fcps\/chainlink","metric":"Silhouette W","best_algorithm":"agglomerative_complete","best_value":0.3892142879}
+{"dataset":"fcps\/chainlink","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/engytime","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.8715659294}
+{"dataset":"fcps\/engytime","metric":"CH Index","best_algorithm":"kmeans","best_value":3191.6684653036}
+{"dataset":"fcps\/engytime","metric":"Dunnowa Index","best_algorithm":"genie_g_0.9","best_value":0.1255095878}
+{"dataset":"fcps\/engytime","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":0.6695434221}
+{"dataset":"fcps\/engytime","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":0.93359375}
+{"dataset":"fcps\/engytime","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.7902866623}
+{"dataset":"fcps\/engytime","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-2.0360812112}
+{"dataset":"fcps\/engytime","metric":"Negated DB Index","best_algorithm":"agglomerative_single","best_value":-0.5500591399}
+{"dataset":"fcps\/engytime","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-4519.2580316105}
+{"dataset":"fcps\/engytime","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4245695711}
+{"dataset":"fcps\/engytime","metric":"Silhouette W","best_algorithm":"agglomerative_single","best_value":0.5943937696}
+{"dataset":"fcps\/engytime","metric":"WCNN Index","best_algorithm":"genie_g_0.9","best_value":0.9960058594}
+{"dataset":"fcps\/hepta","metric":"ARI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/hepta","metric":"CH Index","best_algorithm":"agglomerative_single","best_value":519.9370361336}
+{"dataset":"fcps\/hepta","metric":"Dunnowa Index","best_algorithm":"kmeans","best_value":null}
+{"dataset":"fcps\/hepta","metric":"Generalised Dunn Index","best_algorithm":"kmeans","best_value":3.8570159158}
+{"dataset":"fcps\/hepta","metric":"NCA","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/hepta","metric":"NMI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/hepta","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-1.3045973921}
+{"dataset":"fcps\/hepta","metric":"Negated DB Index","best_algorithm":"genie_g_0.1","best_value":-0.3550386135}
+{"dataset":"fcps\/hepta","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-39.1422413956}
+{"dataset":"fcps\/hepta","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.7019231656}
+{"dataset":"fcps\/hepta","metric":"Silhouette W","best_algorithm":"kmeans","best_value":0.6994182686}
+{"dataset":"fcps\/hepta","metric":"WCNN Index","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/lsun","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"fcps\/lsun","metric":"CH Index","best_algorithm":"kmeans","best_value":487.779056691}
+{"dataset":"fcps\/lsun","metric":"Dunnowa Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":0.5634997935}
+{"dataset":"fcps\/lsun","metric":"Generalised Dunn Index","best_algorithm":"gaussian_mixture","best_value":0.8090856849}
+{"dataset":"fcps\/lsun","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"fcps\/lsun","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"fcps\/lsun","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_ward","best_value":-1.6246282802}
+{"dataset":"fcps\/lsun","metric":"Negated DB Index","best_algorithm":"gaussian_mixture","best_value":-0.7089984425}
+{"dataset":"fcps\/lsun","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-230.4765554993}
+{"dataset":"fcps\/lsun","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4961820046}
+{"dataset":"fcps\/lsun","metric":"Silhouette W","best_algorithm":"agglomerative_complete","best_value":0.5338061594}
+{"dataset":"fcps\/lsun","metric":"WCNN Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":0.998}
+{"dataset":"fcps\/target","metric":"ARI","best_algorithm":"genie_g_0.9","best_value":1.0}
+{"dataset":"fcps\/target","metric":"CH Index","best_algorithm":"kmeans","best_value":628.7645434335}
+{"dataset":"fcps\/target","metric":"Dunnowa Index","best_algorithm":"genie_g_0.5","best_value":0.2049648324}
+{"dataset":"fcps\/target","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_1.5_min_samples_3","best_value":2.8518895567}
+{"dataset":"fcps\/target","metric":"NCA","best_algorithm":"genie_g_0.9","best_value":1.0}
+{"dataset":"fcps\/target","metric":"NMI","best_algorithm":"genie_g_0.9","best_value":1.0}
+{"dataset":"fcps\/target","metric":"Negated Ball Hall Index","best_algorithm":"dbscan_eps_1.5_min_samples_3","best_value":-1.7327826574}
+{"dataset":"fcps\/target","metric":"Negated DB Index","best_algorithm":"dbscan_eps_1.5_min_samples_3","best_value":-0.2523615699}
+{"dataset":"fcps\/target","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-300.875942759}
+{"dataset":"fcps\/target","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.581454356}
+{"dataset":"fcps\/target","metric":"Silhouette W","best_algorithm":"dbscan_eps_1.5_min_samples_3","best_value":0.8825214456}
+{"dataset":"fcps\/target","metric":"WCNN Index","best_algorithm":"agglomerative_ward","best_value":0.9679480519}
+{"dataset":"fcps\/tetra","metric":"ARI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/tetra","metric":"CH Index","best_algorithm":"genie_g_0.1","best_value":418.3912668791}
+{"dataset":"fcps\/tetra","metric":"Dunnowa Index","best_algorithm":"agglomerative_average","best_value":0.5074112258}
+{"dataset":"fcps\/tetra","metric":"Generalised Dunn Index","best_algorithm":"kmeans","best_value":0.8622836315}
+{"dataset":"fcps\/tetra","metric":"NCA","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/tetra","metric":"NMI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/tetra","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-2.8557477558}
+{"dataset":"fcps\/tetra","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.6626445423}
+{"dataset":"fcps\/tetra","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-285.5747755823}
+{"dataset":"fcps\/tetra","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.5057889639}
+{"dataset":"fcps\/tetra","metric":"Silhouette W","best_algorithm":"kmeans","best_value":0.5057889639}
+{"dataset":"fcps\/tetra","metric":"WCNN Index","best_algorithm":"kmeans","best_value":0.9741}
+{"dataset":"fcps\/twodiamonds","metric":"ARI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/twodiamonds","metric":"CH Index","best_algorithm":"kmeans","best_value":2386.4259681704}
+{"dataset":"fcps\/twodiamonds","metric":"Dunnowa Index","best_algorithm":"agglomerative_average","best_value":0.1001132656}
+{"dataset":"fcps\/twodiamonds","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_complete","best_value":0.3001197949}
+{"dataset":"fcps\/twodiamonds","metric":"NCA","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/twodiamonds","metric":"NMI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"fcps\/twodiamonds","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-0.4094790887}
+{"dataset":"fcps\/twodiamonds","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.5418013155}
+{"dataset":"fcps\/twodiamonds","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-163.7916354759}
+{"dataset":"fcps\/twodiamonds","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.6305972085}
+{"dataset":"fcps\/twodiamonds","metric":"Silhouette W","best_algorithm":"kmeans","best_value":0.6305972085}
+{"dataset":"fcps\/twodiamonds","metric":"WCNN Index","best_algorithm":"kmeans","best_value":0.9971}
+{"dataset":"fcps\/wingnut","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/wingnut","metric":"CH Index","best_algorithm":"gaussian_mixture","best_value":1114.0241533888}
+{"dataset":"fcps\/wingnut","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.2400701083}
+{"dataset":"fcps\/wingnut","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.4860578991}
+{"dataset":"fcps\/wingnut","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/wingnut","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"fcps\/wingnut","metric":"Negated Ball Hall Index","best_algorithm":"gaussian_mixture","best_value":-1.2184899038}
+{"dataset":"fcps\/wingnut","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.8637003}
+{"dataset":"fcps\/wingnut","metric":"Negated WCSS Index","best_algorithm":"gaussian_mixture","best_value":-618.9928711056}
+{"dataset":"fcps\/wingnut","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4602621949}
+{"dataset":"fcps\/wingnut","metric":"Silhouette W","best_algorithm":"kmeans","best_value":0.4602621949}
+{"dataset":"fcps\/wingnut","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":0.992519685}
+{"dataset":"graves\/dense","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/dense","metric":"CH Index","best_algorithm":"kmeans","best_value":505.7393861791}
+{"dataset":"graves\/dense","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.6016322157}
+{"dataset":"graves\/dense","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.9","best_value":1.1274670522}
+{"dataset":"graves\/dense","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/dense","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/dense","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_average","best_value":-1.1981197032}
+{"dataset":"graves\/dense","metric":"Negated DB Index","best_algorithm":"agglomerative_average","best_value":-0.4580001617}
+{"dataset":"graves\/dense","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-112.2351119495}
+{"dataset":"graves\/dense","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.6769890169}
+{"dataset":"graves\/dense","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.6669468728}
+{"dataset":"graves\/dense","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":0.9902}
+{"dataset":"graves\/fuzzyx","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.8868805997}
+{"dataset":"graves\/fuzzyx","metric":"CH Index","best_algorithm":"kmeans","best_value":1739.6087621823}
+{"dataset":"graves\/fuzzyx","metric":"Dunnowa Index","best_algorithm":"genie_g_0.5","best_value":0.0946409988}
+{"dataset":"graves\/fuzzyx","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":0.2895407656}
+{"dataset":"graves\/fuzzyx","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":0.9412246541}
+{"dataset":"graves\/fuzzyx","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.8867394979}
+{"dataset":"graves\/fuzzyx","metric":"Negated Ball Hall Index","best_algorithm":"spectral","best_value":-1.2168482777}
+{"dataset":"graves\/fuzzyx","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.5521011668}
+{"dataset":"graves\/fuzzyx","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-250.0806366518}
+{"dataset":"graves\/fuzzyx","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.5510618351}
+{"dataset":"graves\/fuzzyx","metric":"Silhouette W","best_algorithm":"genie_g_0.5","best_value":0.6116317885}
+{"dataset":"graves\/fuzzyx","metric":"WCNN Index","best_algorithm":"genie_g_0.5","best_value":0.9698}
+{"dataset":"graves\/line","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/line","metric":"CH Index","best_algorithm":"kmeans","best_value":473.7694455902}
+{"dataset":"graves\/line","metric":"Dunnowa Index","best_algorithm":"gaussian_mixture","best_value":null}
+{"dataset":"graves\/line","metric":"Generalised Dunn Index","best_algorithm":"gaussian_mixture","best_value":0.8092010463}
+{"dataset":"graves\/line","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/line","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/line","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_average","best_value":-1.23137533}
+{"dataset":"graves\/line","metric":"Negated DB Index","best_algorithm":"agglomerative_ward","best_value":-0.5154838317}
+{"dataset":"graves\/line","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-171.4564193166}
+{"dataset":"graves\/line","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.5660474987}
+{"dataset":"graves\/line","metric":"Silhouette W","best_algorithm":"agglomerative_ward","best_value":0.6119613578}
+{"dataset":"graves\/line","metric":"WCNN Index","best_algorithm":"gaussian_mixture","best_value":1.0}
+{"dataset":"graves\/parabolic","metric":"ARI","best_algorithm":"dbscan_eps_0.2_min_samples_10","best_value":0.933003591}
+{"dataset":"graves\/parabolic","metric":"CH Index","best_algorithm":"kmeans","best_value":1623.5177805448}
+{"dataset":"graves\/parabolic","metric":"Dunnowa Index","best_algorithm":"genie_g_0.7","best_value":0.1478986687}
+{"dataset":"graves\/parabolic","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":0.296856201}
+{"dataset":"graves\/parabolic","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":0.900726586}
+{"dataset":"graves\/parabolic","metric":"NMI","best_algorithm":"dbscan_eps_0.2_min_samples_10","best_value":0.8767331034}
+{"dataset":"graves\/parabolic","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-1.5220103031}
+{"dataset":"graves\/parabolic","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.7249497026}
+{"dataset":"graves\/parabolic","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-761.0051515625}
+{"dataset":"graves\/parabolic","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.5335750758}
+{"dataset":"graves\/parabolic","metric":"Silhouette W","best_algorithm":"kmeans","best_value":0.5335750758}
+{"dataset":"graves\/parabolic","metric":"WCNN Index","best_algorithm":"genie_g_0.7","best_value":0.98876}
+{"dataset":"graves\/ring","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/ring","metric":"CH Index","best_algorithm":"dbscan_eps_0.1_min_samples_3","best_value":695.4859647515}
+{"dataset":"graves\/ring","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":null}
+{"dataset":"graves\/ring","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":1.0701047663}
+{"dataset":"graves\/ring","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/ring","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/ring","metric":"Negated Ball Hall Index","best_algorithm":"gaussian_mixture","best_value":-2.2315241263}
+{"dataset":"graves\/ring","metric":"Negated DB Index","best_algorithm":"dbscan_eps_0.1_min_samples_3","best_value":-0.628485046}
+{"dataset":"graves\/ring","metric":"Negated WCSS Index","best_algorithm":"dbscan_eps_0.1_min_samples_3","best_value":-384.2507413757}
+{"dataset":"graves\/ring","metric":"Silhouette","best_algorithm":"dbscan_eps_0.1_min_samples_3","best_value":0.4941739465}
+{"dataset":"graves\/ring","metric":"Silhouette W","best_algorithm":"gaussian_mixture","best_value":0.4845604214}
+{"dataset":"graves\/ring","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/ring_noisy","metric":"ARI","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":0.9960111646}
+{"dataset":"graves\/ring_noisy","metric":"CH Index","best_algorithm":"kmeans","best_value":408.2278599169}
+{"dataset":"graves\/ring_noisy","metric":"Dunnowa Index","best_algorithm":"spectral","best_value":0.473305543}
+{"dataset":"graves\/ring_noisy","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":2.4283415426}
+{"dataset":"graves\/ring_noisy","metric":"NCA","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":0.976744186}
+{"dataset":"graves\/ring_noisy","metric":"NMI","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":0.9879112445}
+{"dataset":"graves\/ring_noisy","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-1.9836120723}
+{"dataset":"graves\/ring_noisy","metric":"Negated DB Index","best_algorithm":"genie_g_0.9","best_value":-0.4898475158}
+{"dataset":"graves\/ring_noisy","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-1510.5444511447}
+{"dataset":"graves\/ring_noisy","metric":"Silhouette","best_algorithm":"agglomerative_single","best_value":0.5792103067}
+{"dataset":"graves\/ring_noisy","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.6272654581}
+{"dataset":"graves\/ring_noisy","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.9998857143}
+{"dataset":"graves\/ring_outliers","metric":"ARI","best_algorithm":"genie_g_0.9","best_value":1.0}
+{"dataset":"graves\/ring_outliers","metric":"CH Index","best_algorithm":"kmeans","best_value":896.8457823789}
+{"dataset":"graves\/ring_outliers","metric":"Dunnowa Index","best_algorithm":"genie_g_0.3","best_value":0.099111755}
+{"dataset":"graves\/ring_outliers","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_1.0_min_samples_3","best_value":0.8363919702}
+{"dataset":"graves\/ring_outliers","metric":"NCA","best_algorithm":"genie_g_0.9","best_value":1.0}
+{"dataset":"graves\/ring_outliers","metric":"NMI","best_algorithm":"genie_g_0.9","best_value":1.0}
+{"dataset":"graves\/ring_outliers","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_complete","best_value":-2.5677509459}
+{"dataset":"graves\/ring_outliers","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.6733720865}
+{"dataset":"graves\/ring_outliers","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-457.1232827915}
+{"dataset":"graves\/ring_outliers","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.5673521589}
+{"dataset":"graves\/ring_outliers","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.6586159514}
+{"dataset":"graves\/ring_outliers","metric":"WCNN Index","best_algorithm":"agglomerative_average","best_value":0.9756504854}
+{"dataset":"graves\/zigzag","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/zigzag","metric":"CH Index","best_algorithm":"agglomerative_ward","best_value":391.9619491913}
+{"dataset":"graves\/zigzag","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":null}
+{"dataset":"graves\/zigzag","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.6777962945}
+{"dataset":"graves\/zigzag","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/zigzag","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/zigzag","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_average","best_value":-0.9583459761}
+{"dataset":"graves\/zigzag","metric":"Negated DB Index","best_algorithm":"agglomerative_average","best_value":-0.6164561542}
+{"dataset":"graves\/zigzag","metric":"Negated WCSS Index","best_algorithm":"agglomerative_ward","best_value":-99.8050472753}
+{"dataset":"graves\/zigzag","metric":"Silhouette","best_algorithm":"agglomerative_complete","best_value":0.5051729507}
+{"dataset":"graves\/zigzag","metric":"Silhouette W","best_algorithm":"agglomerative_average","best_value":0.5830940679}
+{"dataset":"graves\/zigzag","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"graves\/zigzag_noisy","metric":"ARI","best_algorithm":"dbscan_eps_0.2_min_samples_5","best_value":0.9022490992}
+{"dataset":"graves\/zigzag_noisy","metric":"CH Index","best_algorithm":"agglomerative_ward","best_value":492.537088792}
+{"dataset":"graves\/zigzag_noisy","metric":"Dunnowa Index","best_algorithm":"genie_g_0.3","best_value":0.323201783}
+{"dataset":"graves\/zigzag_noisy","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.9","best_value":0.3915977045}
+{"dataset":"graves\/zigzag_noisy","metric":"NCA","best_algorithm":"dbscan_eps_0.2_min_samples_5","best_value":0.9035087719}
+{"dataset":"graves\/zigzag_noisy","metric":"NMI","best_algorithm":"dbscan_eps_0.2_min_samples_5","best_value":0.9096397074}
+{"dataset":"graves\/zigzag_noisy","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_ward","best_value":-1.0310041823}
+{"dataset":"graves\/zigzag_noisy","metric":"Negated DB Index","best_algorithm":"genie_g_0.9","best_value":-0.5887114823}
+{"dataset":"graves\/zigzag_noisy","metric":"Negated WCSS Index","best_algorithm":"agglomerative_ward","best_value":-115.4844304181}
+{"dataset":"graves\/zigzag_noisy","metric":"Silhouette","best_algorithm":"agglomerative_ward","best_value":0.4863215795}
+{"dataset":"graves\/zigzag_noisy","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.5781035746}
+{"dataset":"graves\/zigzag_noisy","metric":"WCNN Index","best_algorithm":"genie_g_0.3","best_value":0.986}
+{"dataset":"graves\/zigzag_outliers","metric":"ARI","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":0.987454651}
+{"dataset":"graves\/zigzag_outliers","metric":"CH Index","best_algorithm":"agglomerative_ward","best_value":304.4056084224}
+{"dataset":"graves\/zigzag_outliers","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":null}
+{"dataset":"graves\/zigzag_outliers","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.9","best_value":1.3535834801}
+{"dataset":"graves\/zigzag_outliers","metric":"NMI","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":0.9697143521}
+{"dataset":"graves\/zigzag_outliers","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_average","best_value":-1.1406102449}
+{"dataset":"graves\/zigzag_outliers","metric":"Negated DB Index","best_algorithm":"genie_g_0.9","best_value":-0.5187477161}
+{"dataset":"graves\/zigzag_outliers","metric":"Negated WCSS Index","best_algorithm":"agglomerative_ward","best_value":-150.6408876602}
+{"dataset":"graves\/zigzag_outliers","metric":"Silhouette","best_algorithm":"agglomerative_average","best_value":0.5133666829}
+{"dataset":"graves\/zigzag_outliers","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.705250191}
+{"dataset":"graves\/zigzag_outliers","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/a1","metric":"ARI","best_algorithm":"spectral","best_value":0.9475367328}
+{"dataset":"sipu\/a1","metric":"CH Index","best_algorithm":"spectral","best_value":13601.1439837144}
+{"dataset":"sipu\/a1","metric":"Dunnowa Index","best_algorithm":"genie_g_0.3","best_value":0.038992204}
+{"dataset":"sipu\/a1","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.3790347996}
+{"dataset":"sipu\/a1","metric":"NCA","best_algorithm":"spectral","best_value":0.9726315789}
+{"dataset":"sipu\/a1","metric":"NMI","best_algorithm":"spectral","best_value":0.9648801656}
+{"dataset":"sipu\/a1","metric":"Negated Ball Hall Index","best_algorithm":"spectral","best_value":-0.3420284694}
+{"dataset":"sipu\/a1","metric":"Negated DB Index","best_algorithm":"spectral","best_value":-0.532520046}
+{"dataset":"sipu\/a1","metric":"Negated WCSS Index","best_algorithm":"spectral","best_value":-51.6374706728}
+{"dataset":"sipu\/a1","metric":"Silhouette","best_algorithm":"spectral","best_value":0.5900412887}
+{"dataset":"sipu\/a1","metric":"Silhouette W","best_algorithm":"spectral","best_value":0.5928201047}
+{"dataset":"sipu\/a1","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.9782933333}
+{"dataset":"sipu\/a2","metric":"ARI","best_algorithm":"spectral","best_value":0.9556767518}
+{"dataset":"sipu\/a2","metric":"CH Index","best_algorithm":"spectral","best_value":18011.2556272149}
+{"dataset":"sipu\/a2","metric":"Dunnowa Index","best_algorithm":"genie_g_0.3","best_value":0.0347630469}
+{"dataset":"sipu\/a2","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.3594530195}
+{"dataset":"sipu\/a2","metric":"NCA","best_algorithm":"spectral","best_value":0.9770588235}
+{"dataset":"sipu\/a2","metric":"NMI","best_algorithm":"spectral","best_value":0.9731383257}
+{"dataset":"sipu\/a2","metric":"Negated Ball Hall Index","best_algorithm":"spectral","best_value":-0.5179397785}
+{"dataset":"sipu\/a2","metric":"Negated DB Index","best_algorithm":"spectral","best_value":-0.5281980858}
+{"dataset":"sipu\/a2","metric":"Negated WCSS Index","best_algorithm":"spectral","best_value":-77.9953502062}
+{"dataset":"sipu\/a2","metric":"Silhouette","best_algorithm":"spectral","best_value":0.594058938}
+{"dataset":"sipu\/a2","metric":"Silhouette W","best_algorithm":"spectral","best_value":0.5957638249}
+{"dataset":"sipu\/a2","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.9794361905}
+{"dataset":"sipu\/a3","metric":"ARI","best_algorithm":"spectral","best_value":0.9632732515}
+{"dataset":"sipu\/a3","metric":"CH Index","best_algorithm":"spectral","best_value":24380.1618558601}
+{"dataset":"sipu\/a3","metric":"Dunnowa Index","best_algorithm":"genie_g_0.3","best_value":0.0317772923}
+{"dataset":"sipu\/a3","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.3594476025}
+{"dataset":"sipu\/a3","metric":"NCA","best_algorithm":"spectral","best_value":0.9810884354}
+{"dataset":"sipu\/a3","metric":"NMI","best_algorithm":"spectral","best_value":0.9786921276}
+{"dataset":"sipu\/a3","metric":"Negated Ball Hall Index","best_algorithm":"spectral","best_value":-0.6167325603}
+{"dataset":"sipu\/a3","metric":"Negated DB Index","best_algorithm":"spectral","best_value":-0.5220171647}
+{"dataset":"sipu\/a3","metric":"Negated WCSS Index","best_algorithm":"spectral","best_value":-92.7712766318}
+{"dataset":"sipu\/a3","metric":"Silhouette","best_algorithm":"spectral","best_value":0.5982535995}
+{"dataset":"sipu\/a3","metric":"Silhouette W","best_algorithm":"spectral","best_value":0.5994757319}
+{"dataset":"sipu\/a3","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.9807466667}
+{"dataset":"sipu\/aggregation","metric":"ARI","best_algorithm":"agglomerative_average","best_value":0.9934673139}
+{"dataset":"sipu\/aggregation","metric":"CH Index","best_algorithm":"agglomerative_complete","best_value":1383.5775391005}
+{"dataset":"sipu\/aggregation","metric":"Dunnowa Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":0.4950893418}
+{"dataset":"sipu\/aggregation","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":0.7869153253}
+{"dataset":"sipu\/aggregation","metric":"NCA","best_algorithm":"agglomerative_average","best_value":0.9961538462}
+{"dataset":"sipu\/aggregation","metric":"NMI","best_algorithm":"agglomerative_average","best_value":0.9895588088}
+{"dataset":"sipu\/aggregation","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_average","best_value":-0.8490679905}
+{"dataset":"sipu\/aggregation","metric":"Negated DB Index","best_algorithm":"agglomerative_average","best_value":-0.504097534}
+{"dataset":"sipu\/aggregation","metric":"Negated WCSS Index","best_algorithm":"agglomerative_complete","best_value":-124.3755701543}
+{"dataset":"sipu\/aggregation","metric":"Silhouette","best_algorithm":"agglomerative_average","best_value":0.4935851834}
+{"dataset":"sipu\/aggregation","metric":"Silhouette W","best_algorithm":"agglomerative_average","best_value":0.6065323034}
+{"dataset":"sipu\/aggregation","metric":"WCNN Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":0.9996954315}
+{"dataset":"sipu\/compound","metric":"ARI","best_algorithm":"dbscan_eps_0.2_min_samples_5","best_value":0.8853206588}
+{"dataset":"sipu\/compound","metric":"CH Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":1030.1652427278}
+{"dataset":"sipu\/compound","metric":"Dunnowa Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":0.6051023316}
+{"dataset":"sipu\/compound","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":1.2428403668}
+{"dataset":"sipu\/compound","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":0.7517517018}
+{"dataset":"sipu\/compound","metric":"NMI","best_algorithm":"dbscan_eps_0.2_min_samples_5","best_value":0.9089072113}
+{"dataset":"sipu\/compound","metric":"Negated Ball Hall Index","best_algorithm":"genie_g_0.5","best_value":-0.6884674994}
+{"dataset":"sipu\/compound","metric":"Negated DB Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":-0.5028762113}
+{"dataset":"sipu\/compound","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-51.141719265}
+{"dataset":"sipu\/compound","metric":"Silhouette","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":0.6383226512}
+{"dataset":"sipu\/compound","metric":"Silhouette W","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":0.6524222366}
+{"dataset":"sipu\/compound","metric":"WCNN Index","best_algorithm":"dbscan_eps_0.5_min_samples_3","best_value":0.9961904762}
+{"dataset":"sipu\/d31","metric":"ARI","best_algorithm":"spectral","best_value":0.9433968227}
+{"dataset":"sipu\/d31","metric":"CH Index","best_algorithm":"spectral","best_value":9117.7391819192}
+{"dataset":"sipu\/d31","metric":"Dunnowa Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":null}
+{"dataset":"sipu\/d31","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":0.4472625237}
+{"dataset":"sipu\/d31","metric":"NCA","best_algorithm":"spectral","best_value":0.971}
+{"dataset":"sipu\/d31","metric":"NMI","best_algorithm":"spectral","best_value":0.9621706372}
+{"dataset":"sipu\/d31","metric":"Negated Ball Hall Index","best_algorithm":"spectral","best_value":-0.6866005735}
+{"dataset":"sipu\/d31","metric":"Negated DB Index","best_algorithm":"spectral","best_value":-0.5462844626}
+{"dataset":"sipu\/d31","metric":"Negated WCSS Index","best_algorithm":"spectral","best_value":-68.7283103106}
+{"dataset":"sipu\/d31","metric":"Silhouette","best_algorithm":"spectral","best_value":0.5745265092}
+{"dataset":"sipu\/d31","metric":"Silhouette W","best_algorithm":"spectral","best_value":0.5747520388}
+{"dataset":"sipu\/d31","metric":"WCNN Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":1.0}
+{"dataset":"sipu\/flame","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/flame","metric":"CH Index","best_algorithm":"gaussian_mixture","best_value":152.8612328138}
+{"dataset":"sipu\/flame","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.1219476643}
+{"dataset":"sipu\/flame","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.9","best_value":0.8967982695}
+{"dataset":"sipu\/flame","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/flame","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/flame","metric":"Negated Ball Hall Index","best_algorithm":"genie_g_0.9","best_value":-0.3771240974}
+{"dataset":"sipu\/flame","metric":"Negated DB Index","best_algorithm":"genie_g_0.9","best_value":-0.5798144499}
+{"dataset":"sipu\/flame","metric":"Negated WCSS Index","best_algorithm":"gaussian_mixture","best_value":-55.2201179849}
+{"dataset":"sipu\/flame","metric":"Silhouette","best_algorithm":"gaussian_mixture","best_value":0.3743336026}
+{"dataset":"sipu\/flame","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.5774386965}
+{"dataset":"sipu\/flame","metric":"WCNN Index","best_algorithm":"genie_g_0.1","best_value":0.9606666667}
+{"dataset":"sipu\/jain","metric":"ARI","best_algorithm":"genie_g_0.3","best_value":1.0}
+{"dataset":"sipu\/jain","metric":"CH Index","best_algorithm":"kmeans","best_value":503.3555636689}
+{"dataset":"sipu\/jain","metric":"Dunnowa Index","best_algorithm":"genie_g_0.7","best_value":0.2945930195}
+{"dataset":"sipu\/jain","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.3","best_value":0.4459972771}
+{"dataset":"sipu\/jain","metric":"NCA","best_algorithm":"genie_g_0.3","best_value":1.0}
+{"dataset":"sipu\/jain","metric":"NMI","best_algorithm":"genie_g_0.3","best_value":1.0}
+{"dataset":"sipu\/jain","metric":"Negated Ball Hall Index","best_algorithm":"genie_g_0.1","best_value":-1.1106567628}
+{"dataset":"sipu\/jain","metric":"Negated DB Index","best_algorithm":"genie_g_0.7","best_value":-0.6018754468}
+{"dataset":"sipu\/jain","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-206.7521270383}
+{"dataset":"sipu\/jain","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4950718122}
+{"dataset":"sipu\/jain","metric":"Silhouette W","best_algorithm":"genie_g_0.7","best_value":0.5751307981}
+{"dataset":"sipu\/jain","metric":"WCNN Index","best_algorithm":"genie_g_0.3","best_value":0.9908847185}
+{"dataset":"sipu\/pathbased","metric":"ARI","best_algorithm":"dbscan_eps_0.3_min_samples_10","best_value":0.9195181248}
+{"dataset":"sipu\/pathbased","metric":"CH Index","best_algorithm":"kmeans","best_value":359.0336284942}
+{"dataset":"sipu\/pathbased","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.2783776272}
+{"dataset":"sipu\/pathbased","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":0.3812044312}
+{"dataset":"sipu\/pathbased","metric":"NCA","best_algorithm":"dbscan_eps_0.3_min_samples_10","best_value":0.9593161411}
+{"dataset":"sipu\/pathbased","metric":"NMI","best_algorithm":"dbscan_eps_0.3_min_samples_10","best_value":0.8874610599}
+{"dataset":"sipu\/pathbased","metric":"Negated Ball Hall Index","best_algorithm":"gaussian_mixture","best_value":-1.6843305335}
+{"dataset":"sipu\/pathbased","metric":"Negated DB Index","best_algorithm":"gaussian_mixture","best_value":-0.6052217003}
+{"dataset":"sipu\/pathbased","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-172.9334571963}
+{"dataset":"sipu\/pathbased","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.5420275871}
+{"dataset":"sipu\/pathbased","metric":"Silhouette W","best_algorithm":"gaussian_mixture","best_value":0.5486843578}
+{"dataset":"sipu\/pathbased","metric":"WCNN Index","best_algorithm":"kmeans","best_value":0.9562666667}
+{"dataset":"sipu\/r15","metric":"ARI","best_algorithm":"kmeans","best_value":0.9927781994}
+{"dataset":"sipu\/r15","metric":"CH Index","best_algorithm":"kmeans","best_value":4871.9888343738}
+{"dataset":"sipu\/r15","metric":"Dunnowa Index","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":null}
+{"dataset":"sipu\/r15","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":2.1961175171}
+{"dataset":"sipu\/r15","metric":"NCA","best_algorithm":"kmeans","best_value":0.9964285714}
+{"dataset":"sipu\/r15","metric":"NMI","best_algorithm":"kmeans","best_value":0.9942285075}
+{"dataset":"sipu\/r15","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-0.2549074847}
+{"dataset":"sipu\/r15","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.3148156469}
+{"dataset":"sipu\/r15","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-10.1959688702}
+{"dataset":"sipu\/r15","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.7527394021}
+{"dataset":"sipu\/r15","metric":"Silhouette W","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":0.8427167678}
+{"dataset":"sipu\/r15","metric":"WCNN Index","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":1.0}
+{"dataset":"sipu\/s1","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.9897050535}
+{"dataset":"sipu\/s1","metric":"CH Index","best_algorithm":"kmeans","best_value":22675.16251959}
+{"dataset":"sipu\/s1","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.0837025681}
+{"dataset":"sipu\/s1","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.6459762768}
+{"dataset":"sipu\/s1","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":0.9948267156}
+{"dataset":"sipu\/s1","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.9895136206}
+{"dataset":"sipu\/s1","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-0.4620398666}
+{"dataset":"sipu\/s1","metric":"Negated DB Index","best_algorithm":"agglomerative_ward","best_value":-0.3658911978}
+{"dataset":"sipu\/s1","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-154.3145736972}
+{"dataset":"sipu\/s1","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.7112892429}
+{"dataset":"sipu\/s1","metric":"Silhouette W","best_algorithm":"kmeans","best_value":0.7113894873}
+{"dataset":"sipu\/s1","metric":"WCNN Index","best_algorithm":"gaussian_mixture","best_value":0.995176}
+{"dataset":"sipu\/s2","metric":"ARI","best_algorithm":"spectral","best_value":0.9254990032}
+{"dataset":"sipu\/s2","metric":"CH Index","best_algorithm":"spectral","best_value":12826.9366526774}
+{"dataset":"sipu\/s2","metric":"Dunnowa Index","best_algorithm":"genie_g_0.5","best_value":0.0603464584}
+{"dataset":"sipu\/s2","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.2562098761}
+{"dataset":"sipu\/s2","metric":"NCA","best_algorithm":"spectral","best_value":0.9614469825}
+{"dataset":"sipu\/s2","metric":"NMI","best_algorithm":"spectral","best_value":0.9413623265}
+{"dataset":"sipu\/s2","metric":"Negated Ball Hall Index","best_algorithm":"spectral","best_value":-0.791032025}
+{"dataset":"sipu\/s2","metric":"Negated DB Index","best_algorithm":"genie_g_0.1","best_value":-0.4776769366}
+{"dataset":"sipu\/s2","metric":"Negated WCSS Index","best_algorithm":"spectral","best_value":-267.0598081772}
+{"dataset":"sipu\/s2","metric":"Silhouette","best_algorithm":"spectral","best_value":0.6144235257}
+{"dataset":"sipu\/s2","metric":"Silhouette W","best_algorithm":"agglomerative_single","best_value":0.646599719}
+{"dataset":"sipu\/s2","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.977168}
+{"dataset":"sipu\/s3","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.7318426806}
+{"dataset":"sipu\/s3","metric":"CH Index","best_algorithm":"kmeans","best_value":7889.2714773455}
+{"dataset":"sipu\/s3","metric":"Dunnowa Index","best_algorithm":"genie_g_0.5","best_value":0.0529298804}
+{"dataset":"sipu\/s3","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":0.2068443055}
+{"dataset":"sipu\/s3","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":0.848309642}
+{"dataset":"sipu\/s3","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.8008465645}
+{"dataset":"sipu\/s3","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-1.3088412875}
+{"dataset":"sipu\/s3","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.6474229793}
+{"dataset":"sipu\/s3","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-431.4827068387}
+{"dataset":"sipu\/s3","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4922569905}
+{"dataset":"sipu\/s3","metric":"Silhouette W","best_algorithm":"agglomerative_single","best_value":0.5633784449}
+{"dataset":"sipu\/s3","metric":"WCNN Index","best_algorithm":"genie_g_0.5","best_value":0.94832}
+{"dataset":"sipu\/s4","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.6198664173}
+{"dataset":"sipu\/s4","metric":"CH Index","best_algorithm":"kmeans","best_value":5750.5207841615}
+{"dataset":"sipu\/s4","metric":"Dunnowa Index","best_algorithm":"genie_g_0.7","best_value":0.0631514166}
+{"dataset":"sipu\/s4","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":0.2515321472}
+{"dataset":"sipu\/s4","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":0.7700154227}
+{"dataset":"sipu\/s4","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.7255303531}
+{"dataset":"sipu\/s4","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-1.8075186493}
+{"dataset":"sipu\/s4","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-0.7113548346}
+{"dataset":"sipu\/s4","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-582.8608110115}
+{"dataset":"sipu\/s4","metric":"Silhouette","best_algorithm":"kmeans","best_value":0.4690014498}
+{"dataset":"sipu\/s4","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.4592061073}
+{"dataset":"sipu\/s4","metric":"WCNN Index","best_algorithm":"genie_g_0.7","best_value":0.945208}
+{"dataset":"sipu\/spiral","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/spiral","metric":"CH Index","best_algorithm":"kmeans","best_value":238.2648377059}
+{"dataset":"sipu\/spiral","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.515040959}
+{"dataset":"sipu\/spiral","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.1","best_value":0.584359681}
+{"dataset":"sipu\/spiral","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/spiral","metric":"NMI","best_algorithm":"genie_g_0.1","best_value":1.0}
+{"dataset":"sipu\/spiral","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-2.3060284897}
+{"dataset":"sipu\/spiral","metric":"Negated DB Index","best_algorithm":"agglomerative_ward","best_value":-0.8776121599}
+{"dataset":"sipu\/spiral","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-239.9642104802}
+{"dataset":"sipu\/spiral","metric":"Silhouette","best_algorithm":"gaussian_mixture","best_value":0.3624967344}
+{"dataset":"sipu\/spiral","metric":"Silhouette W","best_algorithm":"agglomerative_average","best_value":0.3677028602}
+{"dataset":"sipu\/spiral","metric":"WCNN Index","best_algorithm":"agglomerative_average","best_value":0.8912820513}
+{"dataset":"sipu\/unbalance","metric":"ARI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"sipu\/unbalance","metric":"CH Index","best_algorithm":"kmeans","best_value":221460.9145004815}
+{"dataset":"sipu\/unbalance","metric":"Dunnowa Index","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":null}
+{"dataset":"sipu\/unbalance","metric":"Generalised Dunn Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":4.8199050252}
+{"dataset":"sipu\/unbalance","metric":"NCA","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"sipu\/unbalance","metric":"NMI","best_algorithm":"kmeans","best_value":1.0}
+{"dataset":"sipu\/unbalance","metric":"Negated Ball Hall Index","best_algorithm":"kmeans","best_value":-0.1036271377}
+{"dataset":"sipu\/unbalance","metric":"Negated DB Index","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":-0.2823916237}
+{"dataset":"sipu\/unbalance","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-21.4587237649}
+{"dataset":"sipu\/unbalance","metric":"Silhouette","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":0.8785131687}
+{"dataset":"sipu\/unbalance","metric":"Silhouette W","best_algorithm":"dbscan_eps_0.3_min_samples_3","best_value":0.8121030107}
+{"dataset":"sipu\/unbalance","metric":"WCNN Index","best_algorithm":"dbscan_eps_0.2_min_samples_3","best_value":1.0}
+{"dataset":"uci\/ecoli","metric":"ARI","best_algorithm":"agglomerative_average","best_value":0.744867249}
+{"dataset":"uci\/ecoli","metric":"CH Index","best_algorithm":"kmeans","best_value":141.8249092993}
+{"dataset":"uci\/ecoli","metric":"Dunnowa Index","best_algorithm":"kmeans","best_value":null}
+{"dataset":"uci\/ecoli","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":1.2015140832}
+{"dataset":"uci\/ecoli","metric":"NCA","best_algorithm":"kmeans","best_value":0.5833380905}
+{"dataset":"uci\/ecoli","metric":"NMI","best_algorithm":"agglomerative_average","best_value":0.7193088191}
+{"dataset":"uci\/ecoli","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-7.8006131925}
+{"dataset":"uci\/ecoli","metric":"Negated DB Index","best_algorithm":"agglomerative_complete","best_value":-1.0429457789}
+{"dataset":"uci\/ecoli","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-583.773021704}
+{"dataset":"uci\/ecoli","metric":"Silhouette","best_algorithm":"agglomerative_average","best_value":0.3961646989}
+{"dataset":"uci\/ecoli","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.4233481021}
+{"dataset":"uci\/ecoli","metric":"WCNN Index","best_algorithm":"kmeans","best_value":null}
+{"dataset":"uci\/glass","metric":"ARI","best_algorithm":"kmeans","best_value":0.2738854033}
+{"dataset":"uci\/glass","metric":"CH Index","best_algorithm":"kmeans","best_value":124.5014703239}
+{"dataset":"uci\/glass","metric":"Dunnowa Index","best_algorithm":"kmeans","best_value":null}
+{"dataset":"uci\/glass","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":1.9859290503}
+{"dataset":"uci\/glass","metric":"NCA","best_algorithm":"genie_g_0.3","best_value":0.4171838279}
+{"dataset":"uci\/glass","metric":"NMI","best_algorithm":"kmeans","best_value":0.4264632722}
+{"dataset":"uci\/glass","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-0.0104365889}
+{"dataset":"uci\/glass","metric":"Negated DB Index","best_algorithm":"agglomerative_complete","best_value":-0.8056249761}
+{"dataset":"uci\/glass","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-0.6853277612}
+{"dataset":"uci\/glass","metric":"Silhouette","best_algorithm":"agglomerative_complete","best_value":0.5703585869}
+{"dataset":"uci\/glass","metric":"Silhouette W","best_algorithm":"agglomerative_single","best_value":0.7096432267}
+{"dataset":"uci\/glass","metric":"WCNN Index","best_algorithm":"kmeans","best_value":null}
+{"dataset":"uci\/ionosphere","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.394204497}
+{"dataset":"uci\/ionosphere","metric":"CH Index","best_algorithm":"kmeans","best_value":118.8264892817}
+{"dataset":"uci\/ionosphere","metric":"Dunnowa Index","best_algorithm":"genie_g_0.5","best_value":2.300434068}
+{"dataset":"uci\/ionosphere","metric":"Generalised Dunn Index","best_algorithm":"genie_g_0.9","best_value":2.6615671396}
+{"dataset":"uci\/ionosphere","metric":"NCA","best_algorithm":"gaussian_mixture","best_value":0.6482539683}
+{"dataset":"uci\/ionosphere","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.3144937396}
+{"dataset":"uci\/ionosphere","metric":"Negated Ball Hall Index","best_algorithm":"genie_g_0.9","best_value":-26.9843206137}
+{"dataset":"uci\/ionosphere","metric":"Negated DB Index","best_algorithm":"genie_g_0.5","best_value":-1.288410512}
+{"dataset":"uci\/ionosphere","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-7125.6760054051}
+{"dataset":"uci\/ionosphere","metric":"Silhouette","best_algorithm":"genie_g_0.9","best_value":0.4054039535}
+{"dataset":"uci\/ionosphere","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.4065622505}
+{"dataset":"uci\/ionosphere","metric":"WCNN Index","best_algorithm":"genie_g_0.5","best_value":0.97002849}
+{"dataset":"uci\/sonar","metric":"ARI","best_algorithm":"agglomerative_average","best_value":0.006599156}
+{"dataset":"uci\/sonar","metric":"CH Index","best_algorithm":"kmeans","best_value":59.2881488719}
+{"dataset":"uci\/sonar","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":2.7441339763}
+{"dataset":"uci\/sonar","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":1.6380215871}
+{"dataset":"uci\/sonar","metric":"NCA","best_algorithm":"genie_g_0.5","best_value":0.1595616235}
+{"dataset":"uci\/sonar","metric":"NMI","best_algorithm":"dbscan_eps_1.5_min_samples_3","best_value":0.1538880553}
+{"dataset":"uci\/sonar","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-21.7008972258}
+{"dataset":"uci\/sonar","metric":"Negated DB Index","best_algorithm":"genie_g_0.9","best_value":-1.2944224727}
+{"dataset":"uci\/sonar","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-3513.2420795956}
+{"dataset":"uci\/sonar","metric":"Silhouette","best_algorithm":"genie_g_0.9","best_value":0.2643501156}
+{"dataset":"uci\/sonar","metric":"Silhouette W","best_algorithm":"genie_g_0.9","best_value":0.3168274601}
+{"dataset":"uci\/sonar","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.9180769231}
+{"dataset":"uci\/statlog","metric":"ARI","best_algorithm":"genie_g_0.1","best_value":0.6205271782}
+{"dataset":"uci\/statlog","metric":"CH Index","best_algorithm":"kmeans","best_value":1041.4048820176}
+{"dataset":"uci\/statlog","metric":"Dunnowa Index","best_algorithm":"genie_g_0.7","best_value":0.4555186193}
+{"dataset":"uci\/statlog","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":2.72952453}
+{"dataset":"uci\/statlog","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":0.7398989899}
+{"dataset":"uci\/statlog","metric":"NMI","best_algorithm":"genie_g_0.5","best_value":0.6995991643}
+{"dataset":"uci\/statlog","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-7.3535329475}
+{"dataset":"uci\/statlog","metric":"Negated DB Index","best_algorithm":"kmeans","best_value":-1.0195919584}
+{"dataset":"uci\/statlog","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-5035.2950759666}
+{"dataset":"uci\/statlog","metric":"Silhouette","best_algorithm":"agglomerative_single","best_value":0.7368980184}
+{"dataset":"uci\/statlog","metric":"Silhouette W","best_algorithm":"agglomerative_single","best_value":0.8708883293}
+{"dataset":"uci\/statlog","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.965038961}
+{"dataset":"uci\/wdbc","metric":"ARI","best_algorithm":"dbscan_eps_0.2_min_samples_10","best_value":0.7121200288}
+{"dataset":"uci\/wdbc","metric":"CH Index","best_algorithm":"kmeans","best_value":1300.2082264522}
+{"dataset":"uci\/wdbc","metric":"Dunnowa Index","best_algorithm":"genie_g_0.9","best_value":0.383847711}
+{"dataset":"uci\/wdbc","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":3.3972877676}
+{"dataset":"uci\/wdbc","metric":"NCA","best_algorithm":"dbscan_eps_0.2_min_samples_10","best_value":0.8135272977}
+{"dataset":"uci\/wdbc","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.6143697557}
+{"dataset":"uci\/wdbc","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-8.159912598}
+{"dataset":"uci\/wdbc","metric":"Negated DB Index","best_algorithm":"agglomerative_average","best_value":-0.4290010598}
+{"dataset":"uci\/wdbc","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-1495.3755546889}
+{"dataset":"uci\/wdbc","metric":"Silhouette","best_algorithm":"agglomerative_single","best_value":0.7989868696}
+{"dataset":"uci\/wdbc","metric":"Silhouette W","best_algorithm":"agglomerative_single","best_value":0.8003935367}
+{"dataset":"uci\/wdbc","metric":"WCNN Index","best_algorithm":"spectral","best_value":0.9912829525}
+{"dataset":"uci\/wine","metric":"ARI","best_algorithm":"gaussian_mixture","best_value":0.4451117537}
+{"dataset":"uci\/wine","metric":"CH Index","best_algorithm":"agglomerative_ward","best_value":552.8517622168}
+{"dataset":"uci\/wine","metric":"Dunnowa Index","best_algorithm":"genie_g_0.1","best_value":0.1218363271}
+{"dataset":"uci\/wine","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_average","best_value":0.5782858823}
+{"dataset":"uci\/wine","metric":"NCA","best_algorithm":"genie_g_0.1","best_value":0.5817319169}
+{"dataset":"uci\/wine","metric":"NMI","best_algorithm":"gaussian_mixture","best_value":0.5013934896}
+{"dataset":"uci\/wine","metric":"Negated Ball Hall Index","best_algorithm":"genie_g_0.5","best_value":-0.95684728}
+{"dataset":"uci\/wine","metric":"Negated DB Index","best_algorithm":"agglomerative_average","best_value":-0.4282514578}
+{"dataset":"uci\/wine","metric":"Negated WCSS Index","best_algorithm":"agglomerative_ward","best_value":-51.6223683797}
+{"dataset":"uci\/wine","metric":"Silhouette","best_algorithm":"agglomerative_average","best_value":0.6100753449}
+{"dataset":"uci\/wine","metric":"Silhouette W","best_algorithm":"agglomerative_average","best_value":0.6500948252}
+{"dataset":"uci\/wine","metric":"WCNN Index","best_algorithm":"agglomerative_ward","best_value":0.9458426966}
+{"dataset":"uci\/yeast","metric":"ARI","best_algorithm":"genie_g_0.3","best_value":0.1805540502}
+{"dataset":"uci\/yeast","metric":"CH Index","best_algorithm":"kmeans","best_value":273.415581445}
+{"dataset":"uci\/yeast","metric":"Dunnowa Index","best_algorithm":"genie_g_0.3","best_value":0.3066861699}
+{"dataset":"uci\/yeast","metric":"Generalised Dunn Index","best_algorithm":"agglomerative_single","best_value":1.680457275}
+{"dataset":"uci\/yeast","metric":"NCA","best_algorithm":"spectral","best_value":0.3917417556}
+{"dataset":"uci\/yeast","metric":"NMI","best_algorithm":"spectral","best_value":0.28472789}
+{"dataset":"uci\/yeast","metric":"Negated Ball Hall Index","best_algorithm":"agglomerative_single","best_value":-5.3063166166}
+{"dataset":"uci\/yeast","metric":"Negated DB Index","best_algorithm":"agglomerative_average","best_value":-0.7238249035}
+{"dataset":"uci\/yeast","metric":"Negated WCSS Index","best_algorithm":"kmeans","best_value":-1156.3446681067}
+{"dataset":"uci\/yeast","metric":"Silhouette","best_algorithm":"agglomerative_single","best_value":0.3627316013}
+{"dataset":"uci\/yeast","metric":"Silhouette W","best_algorithm":"agglomerative_average","best_value":0.4985237802}
+{"dataset":"uci\/yeast","metric":"WCNN Index","best_algorithm":"genie_g_0.3","best_value":0.7545822102}

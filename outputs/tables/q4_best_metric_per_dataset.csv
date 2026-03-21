@@ -1,0 +1,44 @@
+dataset,best_internal_metric,spearman_with_ari
+fcps/atom,Generalised Dunn Index,0.9824561403508768
+fcps/chainlink,WCNN Index,0.9870036101083031
+fcps/engytime,CH Index,0.921985815602837
+fcps/hepta,Silhouette W,1.0
+fcps/lsun,Generalised Dunn Index,0.9576271186440679
+fcps/target,Dunnowa Index,0.942857142857143
+fcps/tetra,Negated DB Index,1.0
+fcps/twodiamonds,WCNN Index,1.0
+fcps/wingnut,WCNN Index,0.9999999999999999
+graves/dense,WCNN Index,0.611111111111111
+graves/fuzzyx,Negated WCSS Index,0.6853146853146854
+graves/line,Generalised Dunn Index,0.972952667167543
+graves/parabolic,Silhouette W,0.2313167259786477
+graves/ring,WCNN Index,0.9960132890365452
+graves/ring_noisy,WCNN Index,0.8
+graves/ring_outliers,Silhouette W,0.9277978339350179
+graves/zigzag,WCNN Index,0.9883268482490274
+graves/zigzag_noisy,WCNN Index,0.9503105590062113
+graves/zigzag_outliers,WCNN Index,1.0
+sipu/a1,CH Index,0.9929824561403509
+sipu/a2,Negated Ball Hall Index,0.9789473684210527
+sipu/a3,Silhouette,0.9929824561403509
+sipu/aggregation,Negated Ball Hall Index,0.8469135802469134
+sipu/compound,Negated WCSS Index,0.1911111111111111
+sipu/d31,Negated WCSS Index,0.9892086330935252
+sipu/flame,Dunnowa Index,0.767741935483871
+sipu/jain,Generalised Dunn Index,0.631768953068592
+sipu/pathbased,Dunnowa Index,0.8727272727272727
+sipu/r15,Negated WCSS Index,0.9194630872483219
+sipu/s1,WCNN Index,0.9827586206896554
+sipu/s2,CH Index,0.9929824561403509
+sipu/s3,CH Index,0.9720279720279721
+sipu/s4,Negated WCSS Index,0.9300699300699302
+sipu/spiral,Dunnowa Index,0.9899328859060404
+sipu/unbalance,Negated Ball Hall Index,0.9312277126846664
+uci/ecoli,Silhouette,0.6153846153846154
+uci/glass,Negated WCSS Index,0.9230769230769231
+uci/ionosphere,Negated WCSS Index,0.594306049822064
+uci/sonar,Generalised Dunn Index,0.2508833922261484
+uci/statlog,Negated WCSS Index,0.44055944055944063
+uci/wdbc,CH Index,0.7366548042704627
+uci/wine,Negated WCSS Index,0.65
+uci/yeast,Negated WCSS Index,0.8461538461538463
