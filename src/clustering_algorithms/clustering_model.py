@@ -14,10 +14,10 @@ from tqdm.auto import tqdm
 
 logger = logging.getLogger(__name__)
 
-GENIE_G_VALUES = (0.1, 0.3, 0.5, 0.7, 0.9)
+GENIE_G_VALUES = (0.1, 0.2, 0.3, 0.5, 0.7, 0.9)
 AGGLOMERATIVE_LINKAGES = ("single", "average", "complete", "ward")
-DEFAULT_DBSCAN_EPS_VALUES = (0.1, 0.2, 0.3, 0.5, 0.7, 1.0, 1.5)
-DEFAULT_DBSCAN_MIN_SAMPLES_VALUES = (3, 5, 10)
+DEFAULT_DBSCAN_EPS_VALUES = (0.05, 0.1, 0.15, 0.2, 0.3, 0.5, 0.7, 1.0, 1.5, 2.0)
+DEFAULT_DBSCAN_MIN_SAMPLES_VALUES = (2, 3, 5, 8, 10, 15)
 
 
 @dataclass(slots=True)
@@ -38,6 +38,18 @@ class ClusteringModel:
             msg = "Reference labels cannot be empty."
             raise ValueError(msg)
         return int(np.max(y))
+
+    @staticmethod
+    def drop_noise_cluster_from_reference(y_true: ArrayLike) -> tuple[ArrayLike, ArrayLike | None]:
+        """Drop noise cluster (label 0) from reference labels if present."""
+        y = np.asarray(y_true)
+        if 0 in y:
+            logger.warning(
+                "Reference labels contain noise cluster (label 0). "
+                "Dropping these samples for K inference."
+            )
+            return y[y != 0], np.where(y != 0)[0]
+        return y, None
 
     def run_all(
         self,
@@ -64,6 +76,11 @@ class ClusteringModel:
     ) -> tuple[dict[str, NDArray[np.int_]], dict[str, dict[str, float | int]]]:
         """Fit all algorithms and return labels with DBSCAN configuration metadata."""
         x = np.asarray(data)
+        y_true, indices = self.drop_noise_cluster_from_reference(y_true)
+
+        if indices is not None:
+            x = x[indices]
+
         target_clusters = (
             self.infer_n_clusters_from_reference(y_true) if y_true is not None else self.n_clusters
         )
@@ -110,7 +127,7 @@ class ClusteringModel:
             x,
         )
 
-        return results
+        return results, x, y_true
 
     @staticmethod
     def _fit_predict(model: object, x: NDArray[np.floating]) -> NDArray[np.int_]:
@@ -160,7 +177,7 @@ def run_experiments_for_datasets(
     """Run all clustering algorithms for each dataset.
 
     Input format:
-    `datasets[name] = (X, y_true)`
+    'datasets[name] = (X, y_true)'
     """
     results: dict[str, dict[str, object]] = {}
 
@@ -173,7 +190,7 @@ def run_experiments_for_datasets(
         inferred_k = ClusteringModel.infer_n_clusters_from_reference(y_true)
         logger.info("Running dataset %s with inferred K=%s", dataset_name, inferred_k)
         model = ClusteringModel(n_clusters=inferred_k, random_state=random_state)
-        labels = model.run_all_with_details(
+        labels, x, y_true = model.run_all_with_details(
             data=x,
             y_true=y_true,
             dbscan_eps_values=dbscan_eps_values,
@@ -183,6 +200,7 @@ def run_experiments_for_datasets(
             "k": inferred_k,
             "labels": labels,
             "true_labels": np.asarray(y_true, dtype=int),
+            "data": x,
         }
 
     return results
